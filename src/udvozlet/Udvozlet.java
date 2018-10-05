@@ -9,8 +9,8 @@ public class Udvozlet {
 
 
     public static void main(String[] args) {
-        ember no= new ember("Éva");
-        ember ferfi = new ember("Ádám");
+        ember no= new ember("Emma");
+        ember ferfi = new ember("Péter");
         
         System.out.println(no.koszont());
         System.out.println(ferfi.koszont());
